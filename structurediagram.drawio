@@ -1,1 +1,278 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T01:40:13.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.11.0" etag="QkV4SBMM70dKlkSE0YIM" type="github"><diagram id="cpgGfN65SDcUuJHPmJmD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-09T03:52:25.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="1-vqZv24JNBpILEQAeUR" version="13.11.0" type="github">
+  <diagram id="cpgGfN65SDcUuJHPmJmD" name="Page-1">
+    <mxGraphModel dx="1701" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bute2PtF-87hg-K_BfrG-1" value="SaleInvoice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-2" value="MailingListSaleman" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-6" value="Customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-7" value="InquirySystem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-9" value="SalesmanComission" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-15" value="SaleInventory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="580" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-16" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-17" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-18" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-19" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="730" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-20" value="&lt;b style=&quot;font-weight: normal ; font-size: 13px&quot; id=&quot;docs-internal-guid-f85bfaa0-7fff-9a6b-ba9b-2f663f60cca4&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;SaleInvoice&amp;nbsp; (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;inventoryNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, invDate, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 700 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;custName&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 700 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;salesmanName&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 700 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;serialNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, totalPrice, tradeInAllowance, discount, net, tax)&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;MailingListSalesman (&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;salesman&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-weight: 700 ; vertical-align: baseline&quot;&gt;custName&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;SalesmanComission(&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;inventoryNo&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;salesmanName&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;SaleInventoryInsurance (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;inventoryNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, fireTheft, liability, collision, propDmg)&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;SaleInventoryOptions (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;inventoryNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, code, desc, price)&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;SaleInventoryTradeIn (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;invNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 700 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;serialNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, make, model, year, allowance)&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;&lt;span style=&quot;background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;span id=&quot;docs-internal-guid-f85bfaa0-7fff-9a6b-ba9b-2f663f60cca4&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;&lt;span id=&quot;docs-internal-guid-f85bfaa0-7fff-9a6b-ba9b-2f663f60cca4&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;/p&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Customer (&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;custName&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;, custAddress, custCity, custProv, custPCode, custPhoneH, custPhoneW)&lt;/span&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;/p&gt;&lt;span id=&quot;docs-internal-guid-f85bfaa0-7fff-9a6b-ba9b-2f663f60cca4&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;InquirySystem (make, model, color, trim, year,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;custName&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;)&lt;br&gt;&lt;span id=&quot;docs-internal-guid-f85bfaa0-7fff-9a6b-ba9b-2f663f60cca4&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span id=&quot;docs-internal-guid-f85bfaa0-7fff-9a6b-ba9b-2f663f60cca4&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;ServiceWorkOrder (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;serviceInventoryNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;, date,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;custName&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;serialNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;, parts, labour, tax)&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-f85bfaa0-7fff-9a6b-ba9b-2f663f60cca4&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;//Car&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-weight: 700 ; vertical-align: baseline&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;serialNo&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;, make, model, year, color)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-weight: 700 ; vertical-align: baseline&quot;&gt;(idk if I need to leave it Car or change to CarTradeIn() )&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;CarInventoryRecord (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;serialNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, custName, invNo, date, cost, listBasePrice)&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;CarInventoryRecordOptionalEquipuipment (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;serialNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, code, desc, listPrice)&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;CarInventory(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;serialNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, make, model, year, color, trim)&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;&lt;span id=&quot;docs-internal-guid-f85bfaa0-7fff-9a6b-ba9b-2f663f60cca4&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span id=&quot;docs-internal-guid-f85bfaa0-7fff-9a6b-ba9b-2f663f60cca4&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;ServiceLog (&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;service&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-weight: 700 ; vertical-align: baseline&quot;&gt;serviceInventoryNo&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;, date, serialNo)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Service (&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;serviceInventoryNo&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;, workToBeDone)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;CarSaleAccountingSupplement (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;salesInventoryNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, custName, date, serialNo,&amp;nbsp; purchCost, salePrice, freightNPrep, tax, license, other, commision,)&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;CarSaleAcctSupplementItemAccounting (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 700 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;salesInventoryNo&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, item, cost, sale)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 700 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt; //need to check back this, don&#39;t think it’s correct - Lusxo&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;ProspectList (&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;custName&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-weight: 700 ; vertical-align: baseline&quot;&gt;want&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 12pt ; margin-bottom: 12pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;ProspectListProspectWant (&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: underline ; vertical-align: baseline&quot;&gt;want&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;, year, color, make, model, trim, optionCode, optionDesc)&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="550" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-22" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.002;exitY=0.376;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="690" as="sourcePoint" />
+            <mxPoint x="478" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="700" />
+              <mxPoint x="430" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-25" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="700" as="sourcePoint" />
+            <mxPoint x="470" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-34" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="500" as="sourcePoint" />
+            <mxPoint x="480" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="500" />
+              <mxPoint x="450" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="500" as="sourcePoint" />
+            <mxPoint x="470" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-36" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=-0.003;exitY=0.812;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.777;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bute2PtF-87hg-K_BfrG-20" target="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1061.2" as="sourcePoint" />
+            <mxPoint x="478" y="1038" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="1070" />
+              <mxPoint x="420" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-37" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1040" as="sourcePoint" />
+            <mxPoint x="470" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-40" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.613;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bute2PtF-87hg-K_BfrG-20" target="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="880" as="sourcePoint" />
+            <mxPoint x="480" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="448" y="900" />
+              <mxPoint x="448" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-42" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=-0.002;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479" y="590" as="sourcePoint" />
+            <mxPoint x="480" y="422" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="590" />
+              <mxPoint x="400" y="412" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-43" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="590.0999999999999" as="sourcePoint" />
+            <mxPoint x="470" y="589.7599999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-44" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.001;entryY=0.26;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.002;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bute2PtF-87hg-K_BfrG-20" target="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="730" as="sourcePoint" />
+            <mxPoint x="480" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="730" />
+              <mxPoint x="410" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-46" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="600" as="sourcePoint" />
+            <mxPoint x="470" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-47" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.176;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="505" as="sourcePoint" />
+            <mxPoint x="480" y="435" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="530" />
+              <mxPoint x="440" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-48" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459.9999999999999" y="530" as="sourcePoint" />
+            <mxPoint x="469.9999999999999" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-49" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="550.2" as="sourcePoint" />
+            <mxPoint x="480" y="425" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="560" />
+              <mxPoint x="420" y="425" />
+              <mxPoint x="440" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-50" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459.9999999999999" y="560" as="sourcePoint" />
+            <mxPoint x="469.9999999999999" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-51" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478" y="670" as="sourcePoint" />
+            <mxPoint x="478" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="670" />
+              <mxPoint x="440" y="630" />
+              <mxPoint x="450" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-52" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="669.71" as="sourcePoint" />
+            <mxPoint x="470" y="669.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-53" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="477" y="990" as="sourcePoint" />
+            <mxPoint x="477" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="990" />
+              <mxPoint x="440" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-54" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="990" as="sourcePoint" />
+            <mxPoint x="470" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-56" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="870" as="sourcePoint" />
+            <mxPoint x="470" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-57" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478" y="720" as="sourcePoint" />
+            <mxPoint x="478" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="720" />
+              <mxPoint x="420" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-58" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="720" as="sourcePoint" />
+            <mxPoint x="470" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-59" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="770" as="sourcePoint" />
+            <mxPoint x="470" y="738" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="770" />
+              <mxPoint x="440" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-60" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="770" as="sourcePoint" />
+            <mxPoint x="470" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-61" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="842.15" as="sourcePoint" />
+            <mxPoint x="480" y="809.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="842.15" />
+              <mxPoint x="440" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-62" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="780" as="sourcePoint" />
+            <mxPoint x="470" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-63" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.002;exitY=0.507;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bute2PtF-87hg-K_BfrG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="852.1500000000001" as="sourcePoint" />
+            <mxPoint x="481" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="810" />
+              <mxPoint x="450" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bute2PtF-87hg-K_BfrG-64" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="790" as="sourcePoint" />
+            <mxPoint x="470" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
